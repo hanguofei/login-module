@@ -1,3 +1,0 @@
-select * from user_userprofile;
-select * from user_userprofile_groups;
-select * from user_userprofile_user_permissions;
